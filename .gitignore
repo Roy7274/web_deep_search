@@ -1,2 +1,5 @@
 .env
 .venv
+*.pyc
+_pycache_
+search_engine/__pycache__/
